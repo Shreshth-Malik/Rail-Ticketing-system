@@ -1,5 +1,4 @@
 # Travel on "RAILS" 
-http://152.7.177.194:8080/
 
 A web application for railway ticket management system with login and signup system, booking tickets, cancelling tickets, view ticket history, updating profile, posting reviews and other integrated features.
 
@@ -12,7 +11,7 @@ Password: admin
 ### clone the repo in your local system
 ``` 
 git clone <clone url>
-cd CS517-Rail-Ticketing-System
+cd Rail-Ticketing-System
 ```
 ### Install gems
 ``` 
